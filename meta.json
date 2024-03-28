@@ -1,0 +1,15 @@
+{
+    "name": "Solamandra",
+    "symbol": "SOLAMANDRA",
+    "image": "https://raw.githubusercontent.com/btcgames/test/main/icon.PNG",
+    "description": "",
+    "extensions": {
+        "website": "https://Solamandra.com/",
+        "twitter": "https://twitter.com/Solamandracom",
+        "telegram": "https://t.me/Solamandracom"
+    },
+    "creator": {
+        "name": "SOLAMANDRA LAB",
+        "site": "https://Solamandra.com/"
+    }
+}
